@@ -1,0 +1,18 @@
+io/flutter/plugins/androidalarmmanager/PluginRegistrantException.java
+ io.flutter.plugins.androidalarmmanager.PluginRegistrantException
+io/flutter/plugins/androidalarmmanager/AlarmBroadcastReceiver.java
+ io.flutter.plugins.androidalarmmanager.AlarmBroadcastReceiver
+io/flutter/plugins/androidalarmmanager/AlarmService.java
+ io.flutter.plugins.androidalarmmanager.AlarmService
+ io.flutter.plugins.androidalarmmanager.AlarmService$1
+io/flutter/plugins/androidalarmmanager/RebootBroadcastReceiver.java
+ io.flutter.plugins.androidalarmmanager.RebootBroadcastReceiver
+io/flutter/plugins/androidalarmmanager/AndroidAlarmManagerPlugin.java
+ io.flutter.plugins.androidalarmmanager.AndroidAlarmManagerPlugin
+ io.flutter.plugins.androidalarmmanager.AndroidAlarmManagerPlugin$OneShotRequest
+ io.flutter.plugins.androidalarmmanager.AndroidAlarmManagerPlugin$PeriodicRequest
+io/flutter/plugins/androidalarmmanager/BuildConfig.java
+ io.flutter.plugins.androidalarmmanager.BuildConfig
+io/flutter/plugins/androidalarmmanager/FlutterBackgroundExecutor.java
+ io.flutter.plugins.androidalarmmanager.FlutterBackgroundExecutor
+ io.flutter.plugins.androidalarmmanager.FlutterBackgroundExecutor$1

@@ -1,0 +1,7 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hui.bluetooth_enable" > <!-- <meta-data android:name="flutterEmbedding" android:value="2"/> -->
+4    <uses-sdk android:minSdkVersion="16" />
+4-->C:\Flutter_SDK\flutter\.pub-cache\hosted\pub.dartlang.org\bluetooth_enable-0.1.1\android\src\main\AndroidManifest.xml
+5
+6</manifest>
